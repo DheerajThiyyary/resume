@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Dheeraj Thiyyary",
+    "description":"Just a person who does ramdom coding",
+    "image":"dheeraj.jpeg",
+    "bio":"I am person who likes to take up challengs and work towards it.",
+    "contactmessage":"Wanna Contact me ? ",
+    "email": "dheerajthiyyary.s@gmail.com",
+    "phone": "+59898720243",
+    "github":"https://github.com/DheerajThiyyary",
+    "project":"No projects link to addd",
+    "address":{
+      "street":"Miguel Berriero",
+      "city":"Montevideo",
+      "state":"Uruguay",
+      "zip": "11300"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1g76KNMXNx9ubBRz_fiflTxEVeCKfiJE2/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dheeraj-thiyyary-694114108/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/DheerajThiyyary",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Proficient .Net developer having good hands and understanding on Microservices Architecture and Azure",
+    "education":[
+      {
+        "school":"G Pulla Reddy Engg College",
+        "degree":"Electronics and Communicational Engineering",
+        "graduated":"April 2015",
+        "description":"FullTime"
+      },
+      {
+        "school":"Indian Space Research Organization ISRO",
+        "degree":"Internship",
+        "graduated":"2015",
+        "description":"Project on Liquid Cooling system of vehical in Cryo Lab"
+      },
+      {
+        "school":"Narayana Educational Institution",
+        "degree":"MPC",
+        "graduated":"March 2011",
+        "description":"FullTime."
+      }
+    ],
+    "work":[
+      {
+        "company":"TCS",
+        "title":"Technical Lead",
+        "years":"March 2015 - Present",
+        "description":"Working .Net Technical Lead in developing Microservices and Azure Apps."
+      }
+    ],
+    "skills":[
+      {
+        "name":".Net Core",
+        "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"Azure",
+        "level":"80%"
+      },
+      {
+        "name":"SAFe Agile",
+        "level":"90%"
+      },
+      {
+        "name":"Data Power",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
